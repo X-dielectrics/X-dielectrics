@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: XuLab Dielectric Polymer  # the website title (if blank, full name will be used instead)
+title: XuLab-Dielectric Polymer  # the website title (if blank, full name will be used instead)
 first_name: Wenhan
 middle_name: 
 last_name: Xu
@@ -281,8 +281,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Xu]
+  first_name: [Wenhan]
 
   style: apa
   locale: en
@@ -302,7 +302,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
+  group_by: 2026
   group_order: descending
 
 # Display different badges withs stats for your publications
